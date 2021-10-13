@@ -1,0 +1,10 @@
+D:\Пари\ООП\HW_4\Triangles_2\bin\Debug\Triangles_2.exe.config
+D:\Пари\ООП\HW_4\Triangles_2\bin\Debug\Triangles_2.exe
+D:\Пари\ООП\HW_4\Triangles_2\bin\Debug\Triangles_2.pdb
+D:\Пари\ООП\HW_4\Triangles_2\obj\Debug\Triangles_2.csproj.AssemblyReference.cache
+D:\Пари\ООП\HW_4\Triangles_2\obj\Debug\Triangles_2.Form1.resources
+D:\Пари\ООП\HW_4\Triangles_2\obj\Debug\Triangles_2.Properties.Resources.resources
+D:\Пари\ООП\HW_4\Triangles_2\obj\Debug\Triangles_2.csproj.GenerateResource.cache
+D:\Пари\ООП\HW_4\Triangles_2\obj\Debug\Triangles_2.csproj.CoreCompileInputs.cache
+D:\Пари\ООП\HW_4\Triangles_2\obj\Debug\Triangles_2.exe
+D:\Пари\ООП\HW_4\Triangles_2\obj\Debug\Triangles_2.pdb
